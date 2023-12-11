@@ -7,6 +7,6 @@ The board size is changeable by editing the self.size value in the Board class.
 
 ## ToDo
 - Add [Ultimate TicTacToe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) mode
-- Add opponent
+- Add CPU opponent
 - Add online support
 - Add a preset for the 1895, La France Sudoku
